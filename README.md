@@ -1,16 +1,10 @@
 ## 👋🏻 Hi there! I'm Edu Martinez! 
 Backend developer in training
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-e-Martinez&show_icons=true&theme=algolia&hide=contribs,prs&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="my statistics" height="220" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-e-Martinez&layout=compact&theme=holi" alt="Most used languages" height="220" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-e-Martinez&show_icons=true&theme=algolia&hide=contribs,prs&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="my statistics" height="220" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-e-Martinez&layout=compact&theme=holi" alt="Most used languages" height="220" />  
+</div>
 
 <div style="display: inline_block"><br>          
   <img align="center" alt="vi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
