@@ -2,8 +2,8 @@
 Backend developer in training
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-e-Martinez&show_icons=true&theme=algolia&hide=contribs,prs&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="my statistics" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-e-Martinez&layout=compact&theme=holi" alt="Most used languages" height="170" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-e-Martinez&show_icons=true&theme=algolia&hide=contribs,prs&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="my statistics" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-e-Martinez&layout=compact&theme=holi" alt="Most used languages" height="150" />  
 </div>
 
 <div style="display: inline_block" align="center"><br>          
