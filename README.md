@@ -22,9 +22,3 @@ Backend developer in training
   <a href = "mailto:eduardo.ezequiel.martinez@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href=https://www.linkedin.com/in/eduardo-ezequiel-martinez/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo-e-Martinez/Eduardo-e-Martinez/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eduardo-e-Martinez/Eduardo-e-Martinezoutput/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eduardo-e-Martinez/Eduardo-e-Martinez/output/github-contribution-grid-snake.svg">
-</picture>
